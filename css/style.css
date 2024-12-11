@@ -65,7 +65,7 @@ span {
   border: none;
   border-radius: 100px;
   padding: 10px 20px;
-  background-image: linear-gradient(var(--light-pink), var(--pink)) !important;
+  background-image: linear-gradient(black, var(--pink)) !important;
   font-family: var(--font-host-grotesk);
   font-weight: 500;
   color: var(--btn-color);
